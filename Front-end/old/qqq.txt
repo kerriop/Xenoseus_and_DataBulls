@@ -1,0 +1,200 @@
+<ul class="nav navbar-nav navbar-right">
+			<li class="dropdown dropdown-list">
+				<a href="javascript:void(0);" data-toggle="dropdown" data-play="bounceIn" class="dropdown-toggle">
+				<em class="fa fa-envelope"></em>
+				<div class="label label-danger">300</div>
+				</a>
+				<ul class="dropdown-menu">
+				<li class="dropdown-menu-header">You have 5 new messages</li>
+				<li>
+					<div class="scroll-viewport">
+						<div class="slimScrollDiv" style="position: relative; overflow: hidden; width: auto; height: 250px;">
+							<div class="list-group scroll-content" style="overflow: hidden; width: auto; height: 250px;">
+							<a href="javascript:void(0);" class="list-group-item">
+								<div class="media">
+									<div class="pull-left">
+										<img style="width: 48px; height: 48px;" src="./tables2_files/01.jpg" alt="Image" class="media-object img-rounded">
+									</div>
+									<div class="media-body clearfix">
+										<small class="pull-right">2h</small>
+										<strong class="media-heading text-primary">
+										<div class="point point-success point-lg"></div>
+										Mery
+										</strong>
+										<p class="mb-sm">
+										<small>Cras sit amet nibh libero, in gravida nulla. Nulla...</small>
+										</p>
+									</div>
+								</div>
+							</a>
+							<a href="javascript:void(0);" class="list-group-item">
+								<div class="media">
+									<div class="pull-left">
+										<img style="width: 48px; height: 48px;" src="./tables2_files/04.jpg" alt="Image" class="media-object img-rounded">
+									</div>
+									<div class="media-body clearfix">
+										<small class="pull-right">3h</small>
+										<strong class="media-heading text-primary">
+										<div class="point point-success point-lg"></div>
+										Michael
+										</strong>
+										<p class="mb-sm">
+										<small>Cras sit amet nibh libero, in gravida nulla. Nulla...</small>
+										</p>
+									</div>
+								</div>
+							</a>
+							<a href="javascript:void(0);" class="list-group-item">
+								<div class="media">
+									<div class="pull-left">
+										<img style="width: 48px; height: 48px;" src="./tables2_files/03.jpg" alt="Image" class="media-object img-rounded">
+									</div>
+									<div class="media-body clearfix">
+										<small class="pull-right">4h</small>
+										<strong class="media-heading text-primary">
+										<div class="point point-danger point-lg"></div>
+										Richa
+										</strong>
+										<p class="mb-sm">
+										<small>Cras sit amet nibh libero, in gravida nulla. Nulla...</small>
+										</p>
+									</div>
+								</div>
+							</a>
+							<a href="javascript:void(0);" class="list-group-item">
+								<div class="media">
+									<div class="pull-left">
+										<img style="width: 48px; height: 48px;" src="./tables2_files/05.jpg" alt="Image" class="media-object img-rounded">
+									</div>
+									<div class="media-body clearfix">
+										<small class="pull-right">4h</small>
+										<strong class="media-heading text-primary">
+										<div class="point point-danger point-lg"></div>
+										Robert
+										</strong>
+										<p class="mb-sm">
+										<small>Cras sit amet nibh libero, in gravida nulla. Nulla...</small>
+										</p>
+									</div>
+								</div>
+							</a>
+							<a href="javascript:void(0);" class="list-group-item">
+								<div class="media">
+									<div class="pull-left">
+										<img style="width: 48px; height: 48px;" src="./tables2_files/06.jpg" alt="Image" class="media-object img-rounded">
+									</div>
+									<div class="media-body clearfix">
+										<small class="pull-right">4h</small>
+										<strong class="media-heading text-primary">
+										<div class="point point-danger point-lg"></div>
+										Priya
+										</strong>
+										<p class="mb-sm">
+										<small>Cras sit amet nibh libero, in gravida nulla. Nulla...</small>
+										</p>
+									</div>
+								</div>
+							</a>
+							</div>
+							<div class="slimScrollBar" style="background: rgb(0, 0, 0); width: 7px; position: absolute; top: 0px; opacity: 0.4; border-radius: 7px; z-index: 99; right: 1px; display: block;"></div>
+							<div class="slimScrollRail" style="width: 7px; height: 100%; position: absolute; top: 0px; display: none; border-radius: 7px; background: rgb(51, 51, 51); opacity: 0.2; z-index: 90; right: 1px;"></div>
+						</div>
+					</div>
+				</li>
+				<li class="p">
+					<a href="javascript:void(0);" class="text-center">
+					<small class="text-primary">READ ALL</small>
+					</a>
+				</li>
+				</ul>
+			</li>
+			<li class="dropdown dropdown-list">
+				<a href="javascript:void(0);" data-toggle="dropdown" data-play="bounceIn" class="dropdown-toggle">
+				<em class="fa fa-bell"></em>
+				<div class="label label-info">120</div>
+				</a>
+				<ul class="dropdown-menu">
+				<li>
+					<div class="list-group">
+						<a href="javascript:void(0);" class="list-group-item">
+							<div class="media">
+							<div class="pull-left">
+								<em class="fa fa-envelope-o fa-2x text-success"></em>
+							</div>
+							<div class="media-body clearfix">
+								<div class="media-heading">Unread messages</div>
+								<p class="m0">
+									<small>You have 10 unread messages</small>
+								</p>
+							</div>
+							</div>
+						</a>
+						<a href="javascript:void(0);" class="list-group-item">
+							<div class="media">
+							<div class="pull-left">
+								<em class="fa fa-cog fa-2x"></em>
+							</div>
+							<div class="media-body clearfix">
+								<div class="media-heading">New settings</div>
+								<p class="m0">
+									<small>There are new settings available</small>
+								</p>
+							</div>
+							</div>
+						</a>
+						<a href="javascript:void(0);" class="list-group-item">
+							<div class="media">
+							<div class="pull-left">
+								<em class="fa fa-fire fa-2x"></em>
+							</div>
+							<div class="media-body clearfix">
+								<div class="media-heading">Updates</div>
+								<p class="m0">
+									<small>There are
+									<span class="text-primary">2</span>new updates available</small>
+								</p>
+							</div>
+							</div>
+						</a>
+						<a href="javascript:void(0);" class="list-group-item">
+						<small>Unread notifications</small>
+						<span class="badge">14</span>
+						</a>
+					</div>
+				</li>
+				</ul>
+			</li>
+			<li class="dropdown">
+				<a href="javascript:void(0);" data-toggle="dropdown" data-play="bounceIn" class="dropdown-toggle">
+				<em class="fa fa-user"></em>
+				</a>
+				<ul class="dropdown-menu">
+				<li>
+					<div class="p">
+						<p>Overall progress</p>
+						<div class="progress progress-striped progress-xs m0">
+							<div role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;" class="progress-bar progress-bar-success">
+							<span class="sr-only">80% Complete</span>
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="divider"></li>
+				<li><a href="javascript:void(0);">Profile</a></li>
+				<li><a href="javascript:void(0);">Settings</a></li>
+				<li>
+					<a href="javascript:void(0);">
+						Notifications
+						<div class="label label-info pull-right">5</div>
+					</a>
+				</li>
+				<li>
+					<a href="javascript:void(0);">
+						Messages
+						<div class="label label-danger pull-right">10</div>
+					</a>
+				</li>
+				<li><a href="javascript:void(0);">Logout</a></li>
+				</ul>
+			</li>
+		</ul>
