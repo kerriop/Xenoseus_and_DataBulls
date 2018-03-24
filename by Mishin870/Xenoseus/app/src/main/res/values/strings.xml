@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Xenoseus</string>
+    
+    <string name="navigation_drawer_open">Открыть панель навигации</string>
+    <string name="navigation_drawer_close">Закрыть панель навигации</string>
+    
+    <string name="action_settings">Настройки</string>
+    <string name="hello">Привет, мир!</string>
+    <string name="shops">Магазины</string>
+    <string name="seasons">Сезоны</string>
+    <string name="operations">Операции</string>
+    <string name="products">Продукты</string>
+    <string name="graphic">График</string>
+    <string name="productsGraphic">Комплексный график</string>
+</resources>

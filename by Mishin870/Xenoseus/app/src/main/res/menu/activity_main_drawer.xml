@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/shops"
+            android:icon="@drawable/shopping_cart"
+            android:title="@string/shops" />
+        <item
+            android:id="@+id/seasons"
+            android:icon="@drawable/leaf"
+            android:title="@string/seasons" />
+        <item
+            android:id="@+id/operations"
+            android:icon="@drawable/cogs"
+            android:title="@string/operations" />
+        <item
+            android:id="@+id/products"
+            android:icon="@drawable/dropbox"
+            android:title="@string/products" />
+        <item
+            android:id="@+id/graphic"
+            android:icon="@drawable/external_link_alt"
+            android:title="@string/graphic" />
+        <item
+            android:id="@+id/productsProfit"
+            android:icon="@drawable/external_link_alt"
+            android:title="@string/productsGraphic" />
+    </group>
+
+</menu>

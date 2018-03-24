@@ -1,0 +1,58 @@
+<div class="row">
+	<div class="col">
+		<div class="panel panel-default">
+		  <div class="panel-collapse">
+			 <div class="panel-body">
+				<div style="height: 350px; padding: 0px; position: relative;" data-source="chart/chart-data.php?type=area" class="chart-area flot-chart">
+				   <canvas class="flot-base" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 733px; height: 350px;" width="733" height="350"></canvas>
+				   <div class="flot-text" style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; font-size: smaller; color: rgb(84, 84, 84);">
+					  <div class="flot-x-axis flot-x1-axis xAxis x1Axis" style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; display: block;">
+						 <div class="flot-tick-label tickLabel" style="position: absolute; max-width: 104px; top: 333px; left: 55px; text-align: center;">Mar</div>
+						 <div class="flot-tick-label tickLabel" style="position: absolute; max-width: 104px; top: 333px; left: 165px; text-align: center;">Apr</div>
+						 <div class="flot-tick-label tickLabel" style="position: absolute; max-width: 104px; top: 333px; left: 274px; text-align: center;">May</div>
+						 <div class="flot-tick-label tickLabel" style="position: absolute; max-width: 104px; top: 333px; left: 386px; text-align: center;">Jun</div>
+						 <div class="flot-tick-label tickLabel" style="position: absolute; max-width: 104px; top: 333px; left: 497px; text-align: center;">Jul</div>
+						 <div class="flot-tick-label tickLabel" style="position: absolute; max-width: 104px; top: 333px; left: 604px; text-align: center;">Aug</div>
+						 <div class="flot-tick-label tickLabel" style="position: absolute; max-width: 104px; top: 333px; left: 714px; text-align: center;">Sep</div>
+					  </div>
+					  <div class="flot-y-axis flot-y1-axis yAxis y1Axis" style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; display: block;">
+						 <div class="flot-tick-label tickLabel" style="position: absolute; top: 320px; left: 14px; text-align: right;">0 visitors</div>
+						 <div class="flot-tick-label tickLabel" style="position: absolute; top: 275px; left: 7px; text-align: right;">25 visitors</div>
+						 <div class="flot-tick-label tickLabel" style="position: absolute; top: 229px; left: 7px; text-align: right;">50 visitors</div>
+						 <div class="flot-tick-label tickLabel" style="position: absolute; top: 184px; left: 7px; text-align: right;">75 visitors</div>
+						 <div class="flot-tick-label tickLabel" style="position: absolute; top: 138px; left: 1px; text-align: right;">100 visitors</div>
+						 <div class="flot-tick-label tickLabel" style="position: absolute; top: 93px; left: 1px; text-align: right;">125 visitors</div>
+						 <div class="flot-tick-label tickLabel" style="position: absolute; top: 47px; left: 1px; text-align: right;">150 visitors</div>
+						 <div class="flot-tick-label tickLabel" style="position: absolute; top: 2px; left: 1px; text-align: right;">175 visitors</div>
+					  </div>
+				   </div>
+				   <canvas class="flot-overlay" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 733px; height: 350px;" width="733" height="350"></canvas>
+				   <div class="legend">
+					  <div style="position: absolute; width: 74px; height: 41px; top: 15px; right: 15px; background-color: rgb(252, 252, 252); opacity: 0.85;"> </div>
+					  <table style="position:absolute;top:15px;right:15px;;font-size:smaller;color:#545454">
+						 <tbody>
+							<tr>
+							   <td class="legendColorBox">
+								  <div style="border:1px solid #ccc;padding:1px">
+									 <div style="width:4px;height:0;border:5px solid #745fa4;overflow:hidden"></div>
+								  </div>
+							   </td>
+							   <td class="legendLabel">Recurrent</td>
+							</tr>
+							<tr>
+							   <td class="legendColorBox">
+								  <div style="border:1px solid #ccc;padding:1px">
+									 <div style="width:4px;height:0;border:5px solid #58a7e2;overflow:hidden"></div>
+								  </div>
+							   </td>
+							   <td class="legendLabel">Uniques</td>
+							</tr>
+						 </tbody>
+					  </table>
+				   </div>
+				</div>
+			 </div>
+		  </div>
+		</div>
+	</div>
+</div>

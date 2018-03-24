@@ -1,0 +1,6 @@
+{
+						y: 26.5,
+						marker: {
+							symbol: 'url(https://www.highcharts.com/samples/graphics/sun.png)'
+						}
+					}
