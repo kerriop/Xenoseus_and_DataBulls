@@ -1,1 +1,0 @@
-<?php echo '[{"label":"Recurrent","color":"#745fa4","data":[["Mar",125],["Apr",148],["May",42],["Jun",115],["Jul",45],["Aug",77],["Sep",59]]},{"label":"Uniques","color":"#58a7e2","data":[["Mar",60],["Apr",20],["May",79],["Jun",30],["Jul",55],["Aug",124],["Sep",29]]}]'; ?>
